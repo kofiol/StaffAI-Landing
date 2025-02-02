@@ -1,1 +1,1 @@
-kofiol.github.io/staffai-landing
+https://kofiol.github.io/staffai-landing
